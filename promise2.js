@@ -39,4 +39,6 @@ function downloadFile() {
     .catch((error) => {
       console.error("An error occurred:", error);
     });
-  
+    function add(){
+        alert("work is done😎😎😊😉😊😎😎")
+      }
